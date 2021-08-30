@@ -2,7 +2,9 @@
 <img align="center" height="350" width="1000" src="https://user-images.githubusercontent.com/84480805/131389434-714bd4dd-3106-423c-952c-e75315a14902.gif">
 
 
-  Sou um ex-vendedor de varejo de 23 anos tentando iniciar na área de desenvolvimento, atualmente desempregado estudando Back-end com noções de Front-end. 
+  Sou um ex-vendedor de varejo de 23 anos tentando iniciar na área de desenvolvimento. Atualmente estudando Back-end , data science e machine learning. 
+  <br/>
+  Tendo como experiência clientes, possuo grande facilidade de comunicação, sendo limitado somente na minha língua nativa. Procuro vagas de estágio com a finalidade de me aperfeiçoar tanto no desenvolvimento quanto no pessoal.
 - Eu moro em Betim/MG 
 - Estou procurando vagas de estágio
 - Tenho um bom conhecimento em PHP e MySQL 😉
@@ -35,6 +37,7 @@
     <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
     <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+    <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <div/> <br>
   
   <div>

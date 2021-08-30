@@ -1,8 +1,6 @@
 
+<img align="center" height="350" width="1000" src="https://user-images.githubusercontent.com/84480805/131389434-714bd4dd-3106-423c-952c-e75315a14902.gif">
 
-<img align="center" height="300" width="1200" src="https://preview.redd.it/ddnm7kmznqd71.gif?s=14b845fdef61cc18113b375f780ddcdc9732852b">
-
-## Olá, Eu sou o Mayron Entreportes
 
   Sou um ex-vendedor de varejo de 23 anos tentando iniciar na área de desenvolvimento, atualmente desempregado estudando Back-end com noções de Front-end. 
 - Eu moro em Betim/MG 

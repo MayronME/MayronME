@@ -7,7 +7,7 @@
   Tendo como experiência clientes, possuo grande facilidade de comunicação, sendo limitado somente na minha língua nativa. Procuro vagas de estágio com a finalidade de me aperfeiçoar tanto no desenvolvimento quanto no pessoal.
 - Eu moro em Betim/MG 
 - Estou procurando vagas de estágio
-- Tenho um bom conhecimento em PHP e MySQL 😉
+- Tenho um bom conhecimento em python e MySQL 😉
 - Cursando Sistema de Informação na <img align="center" height="17" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Centro_Universit%C3%A1rio_UNA.png">/Betim
   
 
